@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cluedo</string>
+    <string name="arme">weapon</string>
+    <string name="lieu">Places</string>
+    <string name="personnage">Characters</string>
+    <string name="deconnexion">Log out</string>
+</resources>
